@@ -158,7 +158,7 @@ COMPONETS
 
 /*footer*/
 
-.nave-social{
+.nave-social ul{
 
     display: flex;
     list-style: none;
