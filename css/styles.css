@@ -158,14 +158,14 @@ COMPONETS
 
 /*footer*/
 
-.menu-social{
+.nave-social{
 
     display: flex;
     list-style: none;
     gap: 20px;
 }
 
-.menu-social a{
+.nave-social a{
 
     display: block;
     width: 32px;
@@ -176,7 +176,7 @@ COMPONETS
 
     background-color: #000;
     color: white;
-    
+
 }
 .footer .wrapper{
 
@@ -185,7 +185,28 @@ COMPONETS
     align-items: center;
 }
 
+.facebook a:hover{
 
+    background-color: #1877f2;
+}
+
+.twitter a:hover{
+
+    background-color: #1da1f2;
+}
+
+.linkedin a:hover{
+
+    background-color: #0a66c2;
+}
+
+
+/*aide stylistique*/ 
+
+.conteneur-transports-invisible{
+
+    display: none;
+}
 /*==========================================================
 
 ============================================================*/
