@@ -158,6 +158,12 @@ COMPONETS
 
 /*footer*/
 
+.menu-social{
+
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
 
 .menu-social a{
 
@@ -165,10 +171,21 @@ COMPONETS
     width: 32px;
     height: 32px;
 }
+
 .footer{
 
-
+    background-color: #000;
+    color: white;
+    
 }
+.footer .wrapper{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
 /*==========================================================
 
 ============================================================*/
