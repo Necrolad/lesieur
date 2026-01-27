@@ -3,9 +3,14 @@
 GÉNÉRIQUE
 ============================================================*/
 
+HTML{
+    box-sizing: border-box;
+}
 
+*,*::before,*::after{
 
-
+    box-sizing: inherit;
+}
 
 
 
@@ -15,9 +20,19 @@ GÉNÉRIQUE
 ============================================================*/
 
 
+body{
 
+    padding: 0;
+    margin: 0;
+    font-family: "roboto", sans-serif;
+    font-size: 18px;
+}
 
+a{
 
+    text-decoration: none;
+    
+}
 
 
 /*==========================================================
