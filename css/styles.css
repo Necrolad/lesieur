@@ -142,7 +142,12 @@ COMPONETS
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 60px;
-    
+
+}
+
+.conteneur-transports h3{
+
+    text-align: center;
 }
 /*==========================================================
 
