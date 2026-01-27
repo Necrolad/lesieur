@@ -39,7 +39,11 @@ h1{
     font-size: 36px;
     font-weight: 300;
     letter-spacing: 0.2em;
+    margin: 0;
+    text-align: center;
 }
+
+
 
 
 /*==========================================================
