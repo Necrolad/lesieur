@@ -86,9 +86,18 @@ COMPONETS
     display: flex;
     justify-content: space-between;
     align-items: center;
-    
+
 }
 
+.logo{
+
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: white;
+    font-size: 36px;
+    font-weight: bold;
+}
 /*==========================================================
 
 ============================================================*/
