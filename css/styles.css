@@ -72,7 +72,13 @@ COMPONETS
 
 /*headre*/
 
+.header{
 
+    background-color: #F26C25;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
 
 
 
