@@ -149,6 +149,26 @@ COMPONETS
 
     text-align: center;
 }
+
+.conteneur-transports p{
+
+    text-align: center;
+    margin-top: 10px;
+}
+
+/*footer*/
+
+
+.menu-social a{
+
+    display: block;
+    width: 32px;
+    height: 32px;
+}
+.footer{
+
+
+}
 /*==========================================================
 
 ============================================================*/
