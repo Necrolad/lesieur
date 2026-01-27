@@ -127,6 +127,22 @@ COMPONETS
     display: flex;
     justify-content: space-between;
     align-items: center;
+    background-color: #eee;
+    padding: 20px;
+    margin-bottom: 60px;
+}
+
+.transports{
+
+    padding: 80px 0;
+}
+
+.conteneur-transports{
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 60px;
+    
 }
 /*==========================================================
 
