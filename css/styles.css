@@ -78,9 +78,16 @@ COMPONETS
     color: white;
     padding-top: 10px;
     padding-bottom: 10px;
+    
 }
 
+.header .wrapper{
 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
 
 /*==========================================================
 
