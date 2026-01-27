@@ -111,6 +111,23 @@ COMPONETS
 
     text-decoration: underline;
 }
+
+/*hero*/
+
+.hero{
+
+    padding: 80px 0;
+    background-color: #eee;
+}
+
+/*titre-transports*/
+
+.titre-section{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 /*==========================================================
 
 ============================================================*/
