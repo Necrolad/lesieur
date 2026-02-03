@@ -3,10 +3,13 @@ const conteneur = document.querySelector('.conteneur-transports');
 
 btPlus.addEventListener('click, fouvreferme');
 
-function fouvreferme(
+function fouvreferme(){
 
-    conteneur.classlist.toggle('conteneur-transports-invisible');
-)
+    conteneur.classlist.toggle('conteneur-transports-invisible');    
+}
+
+
+
 
 
 
